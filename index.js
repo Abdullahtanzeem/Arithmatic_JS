@@ -15,3 +15,13 @@ console.log("Remainder:", remainder);
 
 let power= 2 ** 3;
 console.log("Power:", power);
+
+let increment = 10;
+increment++;
+console.log("Increment:", increment);
+
+let decrement =20;
+decrement--;
+console.log("Decrement:", decrement);
+
+// Displaying results in HTML
